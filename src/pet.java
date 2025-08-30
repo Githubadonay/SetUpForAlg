@@ -1,9 +1,9 @@
-public abstract class pet{
+public abstract class Pet{
     private String name;
     private String color;
     private int age;
 
-    pet(String name, String color, int age) {
+    Pet(String name, String color, int age) {
         this.name = name;
         this.color = color;
         this.age = age;
