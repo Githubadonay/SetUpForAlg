@@ -1,7 +1,7 @@
-public class dog extends Pet {
+public class Dog extends Pet {
     static int numberOfDogs;
 
-    public dog(String name, String color, int age, int numberOfDogs){
+    public Dog(String name, String color, int age, int numberOfDogs){
         super(name, color, age);
         numberOfDogs++;
     }
