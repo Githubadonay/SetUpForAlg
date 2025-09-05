@@ -1,0 +1,4 @@
+Number of cats: 0
+Number of dogs: 0
+Average cat age: 0.0
+Average dog age: 0.0

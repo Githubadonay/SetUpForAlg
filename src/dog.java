@@ -8,8 +8,8 @@ public class Dog extends Pet {
     public String toString(){
         return "Cat " + super.toString();
     }
-    @Override
+    
     public String speak() {
-        return "mewo";
+        return "Woof";
     }
 }
